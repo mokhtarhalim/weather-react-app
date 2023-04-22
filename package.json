@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://mokhtarhalim.github.io/weather-react-app",
   "private": true,
-  "language": "JavaScript"
+  "language": "JavaScript",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
